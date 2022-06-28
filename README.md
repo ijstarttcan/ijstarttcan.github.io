@@ -2,7 +2,7 @@
 
 [![ij.start.canon](get-start-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Canon Printer Setup delivers amazing printing quality. Simply click on ij.start.canon to get the complete information of the Canon Prinetr Software. The canon ijsetup is the procedure to connect your printer to the other devices using a wireless connection.
+Canon Printer Setup delivers amazing printing quality. Simply click on [ij.start.canon](https://ijstarttcan.github.io/) to get the complete information of the Canon Prinetr Software. The canon ijsetup is the procedure to connect your printer to the other devices using a wireless connection.
 
 When the network connection is made with the canon printer then you can take print from your devices such as smartphones, tablets, computers, laptops or other devices without using the USB cable.
 
@@ -11,7 +11,7 @@ When the network connection is made with the canon printer then you can take pri
 * Ensure the browser you’ll use for ij start canon printer setup has its updated version.
 * Go through ij.start.canon (secure) site and click the “Set Up (Start Here)” tab.
 * Move ahead to the next page, where you need to enter the Canon printer model.
-* You also can choose the first two letters of your Canon ij printer from shown list on ij.start.canon screen.
+* You also can choose the first two letters of your Canon ij printer from shown list on [ij.start.canon](https://ijstarttcan.github.io/) screen.
 * Click “Start”. See, change or select the right operating system like Windows, Mac, from the corner of your canon window.
 * Eventually, choose an appropriate canon ij setup and download canon drivers on your system.
 * After software download from ij.start.canon, open the downloads folder, and double-click on the setup file to install the Canon printer software.
@@ -21,7 +21,7 @@ When the network connection is made with the canon printer then you can take pri
 
 Https ij Start Canon: Setting up your canon printer will take a few moments to get ready. However, it’s important to connect your inkjet printer and PC, Laptop with a wireless connection. If your printer is prepared for installation and setup, then follow below steps;
 
-* Canon printer software – Either install canon CD-ROM or download the canon ij printer setup from ij.start.canon.
+* Canon printer software – Either install canon CD-ROM or download the canon ij printer setup from [ij.start.canon](https://ijstarttcan.github.io/).
 * Connect to WiFi – On your IJ printer, press the WiFi button until you see a stable orange alarm flashlight.
 * Wireless router – Press the WPS button on the nearby wireless router and wait for the alarm flash to be steady green and blue lights.
 * Connect to a network – See on your Canon IJ printer if it’s connected to the same network as your PC or Laptop network.
@@ -34,7 +34,7 @@ Https ij Start Canon: Setting up your canon printer will take a few moments to g
 
 ##  How do I Setup My Canon Printer Wirelessly?
 
-Set up ij.start.canon printer with WPS push button (see above) or WPS Pin code (shown below). Wireless printers are vastly used devices which you can easily set up.
+Set up [ij.start.canon](https://ijstarttcan.github.io/) printer with WPS push button (see above) or WPS Pin code (shown below). Wireless printers are vastly used devices which you can easily set up.
 
 ###  Set up Canon printer Using USB cable or Wireless installation
 
